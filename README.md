@@ -9,3 +9,9 @@ People tend to come up with - mostly useless - ideas. Instead of letting these i
 * rankings, tournaments
 * statistics
 * possibility of playing many games at the same time
+
+## DelayFS
+
+* provides files with a configurable (including random) delay
+* might be useful for testing (e.g. testing responsiveness of user interface)
+* possible usage: `delayfs /tmp/files /tmp/delayed_files`
