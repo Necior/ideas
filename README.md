@@ -22,3 +22,9 @@ People tend to come up with - mostly useless - ideas. Instead of letting these i
 * mark done tasks using a starting dot in the name of a directory (`rm` would rename in this case)
 * not-directories are regular files which are attachments to the task
 * related idea: filesystem for Wunderlist or similar todo service
+
+## Linkbin
+
+* one-user web application to store URLs
+* title + (URL xor text)
+* use Google Authenticator or similar one-time password system
