@@ -28,3 +28,9 @@ People tend to come up with - mostly useless - ideas. Instead of letting these i
 * one-user web application to store URLs
 * title + (URL xor text)
 * use Google Authenticator or similar one-time password system
+
+## Reading assistant
+
+* keep a list of known words (by a user)
+* find new words in a given text and let a user mark them as known or unknown (or use a scale: "I know a definition", "I intuitively understand", "I've seen this word", "It's completely new")
+* generate flashcards with new words for a given text
