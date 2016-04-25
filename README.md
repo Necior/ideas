@@ -34,3 +34,9 @@ People tend to come up with - mostly useless - ideas. Instead of letting these i
 * keep a list of known words (by a user)
 * find new words in a given text and let a user mark them as known or unknown (or use a scale: "I know a definition", "I intuitively understand", "I've seen this word", "It's completely new")
 * generate flashcards with new words for a given text
+
+## Tinder for food
+
+* keep a list of ingredients in a house
+* compare available dishes with a recipes database
+* show possible dishes (sorted by calories or overall "quality" of a dish)
