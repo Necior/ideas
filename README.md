@@ -40,3 +40,14 @@ People tend to come up with - mostly useless - ideas. Instead of letting these i
 * keep a list of ingredients in a house
 * compare available dishes with a recipes database
 * show possible dishes (sorted by calories or overall "quality" of a dish)
+
+## Videos queue manager
+
+Rationale: I follow some YouTube channels; I watch some TV series. I use tools to download them automatically. What I need is an app which could provide separated queues of videos to watch.
+
+* possibility of sorting by date/length/popularity/custom function
+* grouping multiple sources into one queue (possible queue names: "algorithms", "funny cats", "new music in the feed")
+* find video with video length ≤ X (and search only in the first positions of the queues)
+    * rationale: I often have got X minutes of free time and want to watch full video
+* related to previous two points: mark a queue as with important order or not
+* optionally: in case of TV series or movies, provide IMDb link (or event a description/rating in the UI!)
