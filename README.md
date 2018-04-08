@@ -51,3 +51,8 @@ Rationale: I follow some YouTube channels; I watch some TV series. I use tools t
     * rationale: I often have got X minutes of free time and want to watch full video
 * related to previous two points: mark a queue as with important order or not
 * optionally: in case of TV series or movies, provide IMDb link (or event a description/rating in the UI!)
+
+## Quick file uploader
+
+* small tool to upload given file (or screenshot, or clipboard) to a server
+* on success it prints (or copies to clipbaord) direct access URL
