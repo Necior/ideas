@@ -56,3 +56,8 @@ Rationale: I follow some YouTube channels; I watch some TV series. I use tools t
 
 * small tool to upload given file (or screenshot, or clipboard) to a server
 * on success it prints (or copies to clipbaord) direct access URL
+
+## Taskwarrior notifications
+
+* notifies about (almost) overdue tasks
+* generate PDF with tasks for a given day
